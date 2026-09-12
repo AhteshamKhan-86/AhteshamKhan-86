@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ AHTESHAM KHAN ⚡
+#  AHTESHAM KHAN 🤍
 ### **Full-Stack MERN Developer & Systems Integrator**
 
 *Crafting scalable web applications, robust backends, and modern user experiences.*
